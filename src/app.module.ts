@@ -20,7 +20,6 @@ import { AuthModule } from './auth/auth.module';
         PORT: Joi.number(),
       }),
     }),
-    ,
     UserModule,
     DatabaseModule,
     AuthModule,
